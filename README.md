@@ -1,9 +1,9 @@
 # MegaAIPro
 
-Summarizes meeting transcripts automatically
+Auto-generates social media content calendar
 
 ## 🎯 Inspired By
-Trending topic: **AI Meeting Summarizer**
+Trending topic: **AI Content Calendar**
 
 ## 🚀 Features
 - AI-powered core functionality
@@ -11,23 +11,23 @@ Trending topic: **AI Meeting Summarizer**
 - Ready to deploy
 
 ## 🛠 Tech Stack
-- Python
-- Django
-- Whisper API
-- React
+- Node.js
+- Next.js
+- OpenAI API
+- Twitter API
 
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/xyzcardiff/megaaipro.git
 cd megaaipro
-pip install -r requirements.txt
+npm install
 ```
 
 ## 🏃 Running
 
 ```bash
-python app.py
+npm start
 ```
 
 ## 📝 License
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-03-26*
+*Date: 2026-03-27*
